@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher
 from handlers import router
 from database import create_db
 
-TOKEN = "8131287723:AAEQ89w2ou1B-OLj0rQc8vGWTRaPqjQ4I1E"
+TOKEN = "TOKEN"
 
 async def main():
     bot = Bot(token=TOKEN)
